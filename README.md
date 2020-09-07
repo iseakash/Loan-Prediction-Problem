@@ -2,7 +2,7 @@
 
 Link -  https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#LeaderBoard
 
-/// Rank - 744 and accuracy - 79.17 % ///
+/// Rank - 780 and accuracy - 79.17 % ///
 
 Predict Loan Eligibility for Dream Housing Finance company on Analytics Vidhya
 
